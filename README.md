@@ -2,7 +2,7 @@
 <p>NIM : 2409116045</p>
 <p>Disini saya membuat Program mengenai "Manajemen Gudang Barang di JNT"</p>
 
-<h2>Flowchart</h2>
+Flowchart
 ![flowchart](https://github.com/user-attachments/assets/377c90b0-fd0e-4298-9e72-fcded47c8413)
 
 <h2>Penjelasan Kode</h2>
