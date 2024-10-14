@@ -3,7 +3,7 @@
 <p>Disini saya membuat Program mengenai "Manajemen Gudang Barang di JNT"</p>
 
 <h2>Flowchart</h2>
-![19be7045-2589-436d-a804-285a4d620093](https://github.com/user-attachments/assets/3154ebca-c57e-465b-8908-e300265e431e)
+![flowchart](https://github.com/user-attachments/assets/377c90b0-fd0e-4298-9e72-fcded47c8413)
 
 <h2>Penjelasan Kode</h2>
 ![image](https://github.com/user-attachments/assets/f0d3c6d9-0e11-4ad9-be3f-f2951f51da3e)
