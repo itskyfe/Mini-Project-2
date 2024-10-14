@@ -2,10 +2,10 @@
 <p>NIM : 2409116045</p>
 <p>Disini saya membuat Program mengenai "Manajemen Gudang Barang di JNT"</p>
 
-Flowchart
-(https://github.com/user-attachments/assets/377c90b0-fd0e-4298-9e72-fcded47c8413)
+##Flowchart
+https://github.com/user-attachments/assets/377c90b0-fd0e-4298-9e72-fcded47c8413
 
-<h2>Penjelasan Kode</h2>
+##Penjelasan Kode
 ![image](https://github.com/user-attachments/assets/f0d3c6d9-0e11-4ad9-be3f-f2951f51da3e)
 <p>Kode tersebut untuk membuat PrettyTable yang memuat tanggal masuk barang, nama pemilik barang, dan tanggal keluar barang. saya memasukkan data ke dalam sebuah list yang bisa di inputkan. fungsi "len" disini yaitu untuk membaca list dari data yang diinput untuk dimasukkan ke dalam tabel.
 </p>
